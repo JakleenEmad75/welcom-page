@@ -1,0 +1,26 @@
+.my-main{
+    background-color: #24353F;
+}
+
+.group{
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+h1{
+    color: #17a2b8;
+  
+  font-size: 2.5rem;
+}
+.my-nav{
+    background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.my-content{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.my-big{
+    background-color: #24353F;
+}
